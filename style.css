@@ -1,0 +1,15 @@
+#hed{
+    text-align: center;
+    font-size: xx-large;
+    background-color: aqua;
+    border: solid rgb(37, 32, 32);
+    border-radius: 5px;
+   
+}
+#in{
+text-align: left;
+text-decoration: dotted;
+padding-left: 20px;
+
+
+}
